@@ -15,7 +15,10 @@
 
 ## О проекте
 
-![Screen Shot](https://psv4.userapi.com/c236331/u220406621/docs/d45/043c307dbb2f/3x.gif?extra=3Jfsqib1NbeWnJvk6taA-DNyR-wBufsy26z9L_KXKRo8IHdTQskmG-bSZpqkR2ex7u5F49cKP2flD4Ax6C_okesayL6sV_yGwSA_pUFUsRnCbtBKReizKP2ZsoUzz4ciSkZVFm5miVKODhuAtF4NYvs)
+<p align="center">
+  <img src="https://psv4.userapi.com/c236331/u220406621/docs/d45/043c307dbb2f/3x.gif?extra=3Jfsqib1NbeWnJvk6taA-DNyR-wBufsy26z9L_KXKRo8IHdTQskmG-bSZpqkR2ex7u5F49cKP2flD4Ax6C_okesayL6sV_yGwSA_pUFUsRnCbtBKReizKP2ZsoUzz4ciSkZVFm5miVKODhuAtF4NYvs" style="width: min(100%, 1000px);" />
+  </p>
+
 
 Многие даже не _задумываются_, что в интернете есть очень много крутых) Zip файлов, которые стоит скачать.
 Но из-за размеров интернета, всех их скачать не получиться, но стремиться к этому надо.
